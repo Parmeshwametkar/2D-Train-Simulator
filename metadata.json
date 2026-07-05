@@ -1,0 +1,6 @@
+{
+  "name": "2D Train Simulator",
+  "description": "A 2D train driving game with speed controls, stations, passengers, fuel management, and signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
